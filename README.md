@@ -5,7 +5,7 @@ Internet connectivity, latency, download speed, and upload speed.
 
 ## Demo
 
-![Network Speed Tester Results](network-speed-results.png)
+![Network Speed Tester Results](Network%20test.png)
 
 ## Features
 
