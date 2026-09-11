@@ -1,0 +1,4 @@
+speedtest-env/
+__pycache__/
+*.pyc
+speed_results.csv
