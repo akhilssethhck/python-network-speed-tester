@@ -1,4 +1,5 @@
 # Python Network Speed Tester
+[![Python Check](https://github.com/akhilssethhck/python-network-speed-tester/actions/workflows/python-check.yml/badge.svg)](https://github.com/akhilssethhck/python-network-speed-tester/actions/workflows/python-check.yml)
 
 A Python-based network performance testing tool that measures
 Internet connectivity, latency, download speed, and upload speed.
