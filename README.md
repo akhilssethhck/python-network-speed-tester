@@ -71,3 +71,37 @@ python-network-speed-tester/
 - `README.md` — Project documentation
 - `.gitignore` — Files excluded from Git
 - `Network test.png` — Screenshot showing the tool running
+
+## Learning Objectives
+
+This project was built to practice and understand:
+
+- Python programming and functions
+- Network connectivity testing
+- Ping and latency measurement
+- HTTP requests using Python
+- Download and upload speed measurement
+- Exception and error handling
+- CSV data logging
+- Python virtual environments
+- Linux command-line usage
+- Basic network troubleshooting
+
+## AI-Assisted Development
+
+AI was used as a learning and development assistant during this project.
+
+It helped with:
+
+- Understanding Python concepts
+- Debugging errors
+- Troubleshooting networking issues
+- Structuring the Python program
+- Improving project documentation
+
+The code was tested and validated in a Kali Linux environment.
+
+## Disclaimer
+
+This project is intended for educational purposes and basic network performance testing.
+
