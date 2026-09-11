@@ -3,7 +3,7 @@
 A Python-based network performance testing tool that measures
 Internet connectivity, latency, download speed, and upload speed.
 
-##Demo
+## Demo
 
 ![Network Speed Tester Results](network-speed-results.png)
 
